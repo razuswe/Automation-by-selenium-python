@@ -1,0 +1,9 @@
+
+Actionchains: https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.action_chains
+Fixtures: https://docs.pytest.org/en/6.2.x/fixture.html#:~:text=The%20conftest.py%20file%20serves,pytest%20will%20automatically%20discover%20them).
+Markers: https://docs.pytest.org/en/7.1.x/example/markers.html
+JqueryUI: https://jqueryui.com/droppable/
+Pytest: https://docs.pytest.org/en/7.2.x/getting-started.html
+
+
+
