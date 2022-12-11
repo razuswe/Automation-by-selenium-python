@@ -1,0 +1,8 @@
+Selenium Project
+
+1. Create a test for Google search
+2. Add implicit wait for 10 sec
+3. Maximize window
+4. Create Unit Tests
+5. Add HTML reporting library
+6. Run from command line
